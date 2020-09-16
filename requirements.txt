@@ -1,10 +1,8 @@
-cartopy
 folium
 geopandas
 jupyter
 jupyterlab
 matplotlib
-mpl_toolkits
 numpy
 pydeck==0.5.0b1
 pydeck-earthengine-layers
