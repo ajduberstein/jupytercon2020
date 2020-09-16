@@ -7,3 +7,5 @@ numpy
 pydeck==0.5.0b1
 pydeck-earthengine-layers
 pandas
+# You may need to install some additional dependencies, see https://github.com/gboeing/osmnx/issues/3#issuecomment-578476668
+rtree
