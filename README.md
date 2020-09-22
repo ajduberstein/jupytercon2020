@@ -3,7 +3,7 @@ pydeck: High scale data visualization for Python
 
 This repo is a series of demos from my talk for JupyterCon 2020.
 
-Run `pip install -r requirements.txt && python -m jupyter notebook` in this directory run the Notebooks in this repo.
+Run `pip install -r requirements.txt && python -m jupyter notebook` in this directory run the Notebooks in this repo. Enable pydeck for use in a Notebook by following the instructions [here](https://pydeck.gl/installation.html).
 
 Table of contents:
 
